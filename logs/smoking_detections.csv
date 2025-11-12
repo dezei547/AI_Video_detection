@@ -1,0 +1,2 @@
+Frame,Timestamp(s),English Classes,Chinese Classes,Max Confidence,Image Path
+120,0.00,smoke,抽烟,0.7886,smoking_detections\smoking_000120.jpg

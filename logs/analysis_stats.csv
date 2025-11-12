@@ -1,0 +1,14 @@
+Statistic,Value
+Video Path,E:\AAmyproject\FaceDetection\新建文件夹\a - 副本 (2) - 副本\adfdghgfs_transcoded.mp4
+Video Duration(s),31.07
+Total Frames,932
+Processed Frames,94
+Face Detections,15
+Scene Objects,32
+NSFW Detections,12
+Violence Detections,9
+Processing Time(s),65.25
+Processing Speed(FPS),1.44
+Sample Rate,10
+Batch Size,64
+OCR Text Detections,44

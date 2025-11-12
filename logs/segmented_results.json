@@ -1,0 +1,220 @@
+{
+  "video_info": {
+    "path": "E:\\AAmyproject\\FaceDetection\\新建文件夹\\a - 副本 (2) - 副本\\adfdghgfs_transcoded.mp4",
+    "duration": 31.066666666666666,
+    "fps": 30.0,
+    "resolution": "2000x1080",
+    "total_frames": 932
+  },
+  "analysis_params": {
+    "sample_rate": 10,
+    "batch_size": 64,
+    "nsfw_threshold": 0.7,
+    "violence_threshold": 0.7,
+    "face_threshold": 0.5,
+    "scene_threshold": 0.5
+  },
+  "segments": [
+    {
+      "segment": "0-5s",
+      "adult_content": false,
+      "smoking": true,
+      "violence": true,
+      "black_scenes": false,
+      "frozen_scenes": false,
+      "matched_faces": [],
+      "sensitive_words": [
+        "包换",
+        "何以结愁悲"
+      ],
+      "all_ocr_texts": [
+        "何以结愁悲",
+        "biibii",
+        "00:01 / 09:43",
+        "720P准高清",
+        "倍速",
+        "o",
+        "bilibili",
+        "bilibii",
+        "bilbi",
+        "（>",
+        "00:02 / 09:43",
+        "<>",
+        "biibi"
+      ],
+      "video_text": [
+        "能退换等条的或都是有限我们是包"
+      ],
+      "scene": [
+        "更衣室"
+      ]
+    },
+    {
+      "segment": "5-10s",
+      "adult_content": false,
+      "smoking": false,
+      "violence": false,
+      "black_scenes": false,
+      "frozen_scenes": false,
+      "matched_faces": [],
+      "sensitive_words": [
+        "包换",
+        "何以结愁悲"
+      ],
+      "all_ocr_texts": [
+        "何以结愁悲",
+        "bilibii",
+        "00:03 / 09:43",
+        "720P准高清",
+        "倍速",
+        "o",
+        "（>",
+        "biibi",
+        "<>",
+        "00:04 / 09:43",
+        "<》",
+        "bilbi",
+        "<",
+        "biibii",
+        "00:05 / 09:43",
+        "00:06 / 09:43",
+        "8",
+        "E3",
+        "00:07 / 09:43"
+      ],
+      "video_text": [
+        "的来用户啊你退货找客服技临区油费"
+      ],
+      "scene": [
+        "更衣室"
+      ]
+    },
+    {
+      "segment": "10-15s",
+      "adult_content": false,
+      "smoking": false,
+      "violence": false,
+      "black_scenes": false,
+      "frozen_scenes": false,
+      "matched_faces": [],
+      "sensitive_words": [],
+      "all_ocr_texts": [],
+      "video_text": [
+        "就可以了对我们家走个人的找客服技临区不会"
+      ]
+    },
+    {
+      "segment": "15-20s",
+      "adult_content": false,
+      "smoking": false,
+      "violence": false,
+      "black_scenes": false,
+      "frozen_scenes": false,
+      "matched_faces": [
+        "a"
+      ],
+      "sensitive_words": [],
+      "all_ocr_texts": [],
+      "video_text": [
+        "很累的你们放心那么很多姐妹是刚进来担心写会被太"
+      ],
+      "scene": [
+        "舞台/室内"
+      ]
+    },
+    {
+      "segment": "20-25s",
+      "adult_content": false,
+      "smoking": false,
+      "violence": false,
+      "black_scenes": false,
+      "frozen_scenes": false,
+      "matched_faces": [
+        "a"
+      ],
+      "sensitive_words": [
+        "何以结愁悲"
+      ],
+      "all_ocr_texts": [
+        "何以结愁悲",
+        "biibi",
+        "00:07 / 09:43",
+        "720P准高清",
+        "倍速",
+        "<",
+        "E3",
+        "bilibii",
+        "00:08 / 09:43",
+        "o",
+        "（>",
+        "<>",
+        "bilbi",
+        "00:09 / 09:43",
+        "+",
+        "bilbii",
+        "biibii",
+        "00:10 / 09:43",
+        "<》",
+        "biibiti",
+        "00:11 / 09:43",
+        "00:12 / 09:43"
+      ],
+      "video_text": [
+        "重的所有新粉我们这个写一支呢就只有两百克因为其实你"
+      ],
+      "scene": [
+        "舞台/室内",
+        "更衣室"
+      ]
+    },
+    {
+      "segment": "25-30s",
+      "adult_content": true,
+      "smoking": false,
+      "violence": false,
+      "black_scenes": false,
+      "frozen_scenes": false,
+      "matched_faces": [],
+      "sensitive_words": [
+        "何以结愁悲"
+      ],
+      "all_ocr_texts": [
+        "何以结愁悲",
+        "bilibii",
+        "00:12 / 09:43",
+        "720P准高清",
+        "倍速",
+        "8",
+        "<>",
+        "biibii",
+        "o",
+        "（>",
+        "00:13 / 09:43",
+        "哪有小姐姐",
+        "愿意给我老公当鸡巴套子呀",
+        "完整版视频来源",
+        "www.52ywy.com",
+        "啊那你有没有漂亮的闺蜜啊"
+      ],
+      "video_text": [
+        "发现了没有今年的库子都做的比较长相接种后底写你真的有必要去被"
+      ],
+      "scene": [
+        "电梯/门"
+      ]
+    },
+    {
+      "segment": "30-31.066666666666666s",
+      "adult_content": true,
+      "smoking": false,
+      "violence": false,
+      "black_scenes": false,
+      "frozen_scenes": false,
+      "matched_faces": [],
+      "sensitive_words": [],
+      "all_ocr_texts": [],
+      "video_text": []
+    }
+  ],
+  "total_segments": 7
+}

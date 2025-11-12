@@ -1,0 +1,10 @@
+Frame,Timestamp(s),English Classes,Chinese Classes,Max Confidence,Image Path
+10,0.00,Violence,暴力行为,0.7788,violence_detections\violence_000010.jpg
+20,0.00,Violence,暴力行为,0.7900,violence_detections\violence_000020.jpg
+30,0.00,Violence,暴力行为,0.8008,violence_detections\violence_000030.jpg
+40,0.00,Violence,暴力行为,0.8188,violence_detections\violence_000040.jpg
+50,0.00,Violence,暴力行为,0.8208,violence_detections\violence_000050.jpg
+60,0.00,Violence,暴力行为,0.8276,violence_detections\violence_000060.jpg
+70,0.00,Violence,暴力行为,0.8115,violence_detections\violence_000070.jpg
+80,0.00,Violence,暴力行为,0.8174,violence_detections\violence_000080.jpg
+90,0.00,Violence,暴力行为,0.8188,violence_detections\violence_000090.jpg

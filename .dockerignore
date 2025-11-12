@@ -1,0 +1,46 @@
+# 排除所有检测结果和数据文件
+detected_faces/
+nsfw_detections/
+smoking_detections/
+violence_detections/
+abnormalities/
+face_database/
+face_gallery/
+scene_annotations/
+logs/
+
+
+
+# 排除视频和大型媒体文件
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.mpg
+*.mpeg
+
+# 排除临时文件和缓存
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.python
+.ipynb_checkpoints
+.idea
+.vscode
+.git
+
+# 排除环境文件
+.env
+.venv
+venv/
+conda/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 排除ffmpeg（如果不需要）
+ffmpeg/

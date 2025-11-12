@@ -1,0 +1,10 @@
+@echo off
+
+SET CONDA_PATH=.\conda
+SET CUDA_HOME=%CONDA_PREFIX%
+SET PATH=%CONDA_PREFIX%\bin;%PATH%
+SET PATH=%CONDA_PREFIX%\lib;%PATH%
+REM 激活base环境
+CALL %CONDA_PATH%\Scripts\activate.bat %CONDA_PATH%
+
+cmd /k
