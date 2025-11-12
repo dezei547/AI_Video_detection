@@ -3,11 +3,7 @@
 AI视频检测审核
 
 ## 功能特性
-- 🎤 实时语音识别
-- 🖥️ 实时滚动提词
-- 🎯 高精度语音转文本
-- ⚡ 快速响应
-- 🔄 持续优化更新
+AI视频企业级检测项目，可检测色情、暴力、敏感语音、敏感文字、敏感人脸、黑屏、静止帧、抽烟等
 
 ## 环境要求
 
@@ -34,12 +30,12 @@ pip install -r requirements.txt
 
 ### 4. 运行应用
 conda activate myenv
-python funasr_tray_app.py
+python api.py --mode api
 
 
 ###5. 下载运行下面exe文件
-通过网盘分享的文件：AI-Prompt Setup 3.0.0.exe
-链接: https://pan.baidu.com/s/1x9XPEtSe4JvHP4s_M9scZA?pwd=zdk8 提取码: zdk8 
+通过网盘分享的文件：Myapp.rar
+链接: https://pan.baidu.com/s/14hI28s4RCjcUYkyGYKZSrw?pwd=7uis 提取码: 7uis 
 --来自百度网盘超级会员v5的分享
 
 ```
@@ -47,9 +43,9 @@ python funasr_tray_app.py
 ## 界面预览
 
 <div align="center">
-  <img src="assets/ui.png" alt="AI-Promot 主界面" width="600">
+  <img src="assets/demo.png" alt="AI-Promot 主界面" width="600">
   <br>
-  <strong>AI-Promot 智能提词器界面</strong>
+
 </div>
 ## 🎥 功能演示
 
