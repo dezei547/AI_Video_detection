@@ -49,11 +49,9 @@ python api.py --mode api
 </div>
 ## 🎥 功能演示
 
-<div align="center">
-  <video width="600" controls>
-    <source src="demo.mp4" type="video/mp4">
-    您的浏览器不支持视频播放。
-  </video>
-  <br>
-</div>
+
+
+https://github.com/user-attachments/assets/08aa4c01-5371-48a8-a2aa-af76951cacb3
+
+
 
